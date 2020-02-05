@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "pg": "^7.18.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.3"
+  },
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  },
+  "name": "sqlnode",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  }
+}
