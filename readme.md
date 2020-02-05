@@ -9,3 +9,4 @@ Projeto criado com base no seguinte vídeo https://www.youtube.com/watch?v=Fbu7z
 -   Separado os arquivos de config
 -   Utilizado a configuração padrão do sequelize-cli para criação do projeto
 -   Banco de dados Postgres
+-   Utilizando o yarn
