@@ -1,6 +1,4 @@
-# PROJETO ROCKETSEAT ALTERADO
 
-Projeto criado com base no seguinte vídeo https://www.youtube.com/watch?v=Fbu7z5dXcRs
 
 ## Alterações
 
