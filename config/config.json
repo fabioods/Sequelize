@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "postgres",
-    "password": "123456",
-    "database": "sqlnode",
+    "password": "root",
+    "database": "SQL-NODE",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorsAliases": false

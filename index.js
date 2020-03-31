@@ -1,12 +1,12 @@
-const express = require('express')
-const consign = require('consign')
+const express = require("express")
+const consign = require("consign")
 
-const app = express();
+const app = express()
 
 consign()
-    .include("models/index.js")
-    .then("config/middlewares.js")
-    .then("routes")
-    .then("controls")
-    .then("config/boot.js")
-    .into(app)
+  .include("models/index.js")
+  .then("config/middlewares.js")
+  .then("routes")
+  .then("controllers")
+  .then("config/boot.js")
+  .into(app)
