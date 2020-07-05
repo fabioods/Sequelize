@@ -1,4 +1,7 @@
+# Instruções
 
+## Descrição
+Consiste em um projeto para configuração inicial do sequelize com banco de dados postgres.
 
 ## Alterações
 
